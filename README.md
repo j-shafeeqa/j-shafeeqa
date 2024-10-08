@@ -5,7 +5,7 @@
 <p align="left">I'm an experienced developer with a strong focus on machine learning, based in the UAE, and driven by a passion for AI innovations.</p>
 
 
-<p align="left">🔭 Currently working on a semantic search bar for e-commerce applications <br>📚 Exploring Deep Learning<br>🔨 Crafting intelligent solutions that make life easier<br></p>
+<p align="left">🔭 Currently working on a semantic search bar for e-commerce applications <br>📚 Exploring Deep Learning and more...<br>🔨 Crafting intelligent solutions that make life easier<br></p>
 
 ###
 

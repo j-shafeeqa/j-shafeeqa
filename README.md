@@ -7,6 +7,15 @@
 
 <p align="left">🔭 Currently working on a semantic search bar for e-commerce applications <br>📚 Exploring Deep Learning and more...<br>🔨 Crafting intelligent solutions that make life easier<br></p>
 
+
+<h2 align="left">GitHub Stats</h2>
+
+<div align="left" style="display: flex; justify-content: space-between; width: 100%;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=j-shafeeqa&show_icons=true&theme=highcontrast&icon_color=0077B5&title_color=0077B5&text_color=ffffff&bg_color=000000&border_color=0077B5" alt="GitHub Stats" />
+</div>
+
+
 ###
 
 <h2 align="left">I code with</h2>

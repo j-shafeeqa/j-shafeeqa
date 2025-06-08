@@ -40,8 +40,8 @@
 <h2 align="left">💻 Tech Stack</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,react,nextjs,tailwind,html,css,javascript" /><br>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,flask,fastapi,androidstudio,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,react,nextjs,tailwind,html,css,javascript,firebase,mysql,flask,fastapi,androidstudio,figma" /><br>
+
 </div>
 
 
